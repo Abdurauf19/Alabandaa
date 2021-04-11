@@ -1,0 +1,20 @@
+@import'fonts.css';
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+:root{
+--title:#4A4A4A;
+--text:#4A4A4A;
+--backround:#6BB071;
+--btn:#6BB071;
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
